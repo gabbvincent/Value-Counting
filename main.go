@@ -1,3 +1,8 @@
+//Name: Vincent Gabb
+//Date: 3/8/2020
+//Description: Value Counting
+
+
 package main
 
 import (
